@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Geek Brains Student</h3>
 
-𝐇𝐨𝐦𝐞𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐋𝐞𝐬𝐬𝐨𝐧 7: How not to write code. Part 1
+𝐇𝐨𝐦𝐞𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐋𝐞𝐬𝐬𝐨𝐧 8: How not to write code. Part 2
 
 
 1. **Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.**
